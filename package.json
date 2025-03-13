@@ -1,0 +1,32 @@
+{
+  "name": "conventional-changelog-turbo",
+  "version": "1.0.0",
+  "description": "Conventional-changelog preset for Turbo Commit Convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "turbo-git",
+    "turbo-commit",
+    "commit-convention",
+    "changelog",
+    "angular",
+    "commit",
+    "convention"
+  ],
+  "author": "samuelfabrizio@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfabrizio/conventional-changelog-turbo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sfabrizio/conventional-changelog-turbo/issues"
+  },
+  "homepage": "https://github.com/sfabrizio/conventional-changelog-turbo#readme",
+  "peerDependencies": {
+    "conventional-changelog-core": ">=4.0.0"
+  }
+}
